@@ -14,7 +14,7 @@
     "prop-types": "^15.6.2",
     "react": "16.6.3",
     "react-addons-update":"^15.6.2",
-    "react-native": "0.57.8",
+    "react-native": "0.62.3",
     "react-native-elements": "^1.0.0-beta5",
     "react-native-firebase": "4.3",
     "react-native-geolocation-service": "^2.0.0",
